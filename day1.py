@@ -19,4 +19,4 @@ total = 0
 max = elf[:3]
 for m in max:
     total = m + total
-print(total)
+print("The total is ",total)
